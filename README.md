@@ -37,8 +37,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://adityayaduvanshi.github.io/Clipboard-landing-page-solution/)
-- Live Site URL: [Add live site URL here](https://adityayaduvanshi.github.io/Clipboard-landing-page-solution/)
+- Solution URL: [https://adityayaduvanshi.github.io/Clipboard-landing-page-solution/](https://adityayaduvanshi.github.io/Clipboard-landing-page-solution/)
+- Live Site URL: [https://adityayaduvanshi.github.io/Clipboard-landing-page-solution/](https://adityayaduvanshi.github.io/Clipboard-landing-page-solution/)
 
 ## My process
 
